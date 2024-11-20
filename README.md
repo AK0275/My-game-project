@@ -1,4 +1,4 @@
-as a user I should see letters buttom 
+**as a user I should see letters buttom**
 
 as a user I want to choose a letter
 
