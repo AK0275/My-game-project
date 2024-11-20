@@ -1,6 +1,6 @@
 # Hangman
 
-![Hang Man](https://imgur.com/a/AyKCd4q)
+![Hang Man](https://imgur.com/a/AyKCd4q.png)
 
 ## Description
 
