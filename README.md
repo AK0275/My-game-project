@@ -1,14 +1,14 @@
-**as a user I should see letters buttom**
+# Hangman
 
-as a user I want to choose a letter
+![Hang Man](https://imgur.com/a/AyKCd4q)
 
-as a user I need to see a hang man 
+## Description
 
-as a user I need to get the right word to win
+#### My hangman game is about animals so I tried to make it simple and easy to play for everyone
 
-as a user I need to see the game looks good 
+## How to play
+You must guess the name of the animal and you have ten chances to guess the letters and know the correct name of the animal
 
-the title of the game is HangMan
-
-the user need to find the right letters to creat a word and if the user did not find the right letters the man will get hang 
+## So as a player you need to:
+find the correct name before the man is hanged
 
