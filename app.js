@@ -66,7 +66,7 @@ const buttonsParentEl = document.querySelector(".buttons-parent")
 
 let checkStatusGlobal = 0;
 
-const buttonParentClickFunction = function (e) {
+const buttonParentClickFunction = (e) => {
 
 let checkStatus = 0;
 
